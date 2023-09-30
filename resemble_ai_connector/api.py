@@ -23,7 +23,7 @@ voice_tanja = "16c50f71"
 voice_excited_tanja = "584248ee"
 
 headers = {
-    'Authorization': 'Token token=LP4y5RanbIQHxan3k5zLRQtt',
+    'Authorization': 'Token token=XXXXXXXXXXXXXXXXXXXXXXXXX',
     'Content-Type': 'application/json'
 }
 
